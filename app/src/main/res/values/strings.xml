@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Slot Machine</string>
+    <string name="balance_text">Balance: $%d</string>
+    <string name="bet_1">$1</string>
+    <string name="bet_2">$2</string>
+    <string name="bet_5">$5</string>
+    <string name="play">PLAY</string>
+    <string name="mode_casse_cou">Casse-cou mode</string>
+    <string name="add_money_text">To add $100:</string>
+    <string name="enter_secret_code">Enter your secret code</string>
+    <string name="secret_code_hint">Secret code</string>
+    <string name="win_message">You won $%d!</string>
+    <string name="slot_machine_image_1">You won $%d!</string>
+    <string name="slot_machine_image_2">You won $%d!</string>
+    <string name="slot_machine_image_3">You won $%d!</string>
+</resources>
